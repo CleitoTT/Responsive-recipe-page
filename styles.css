@@ -1,0 +1,158 @@
+/*fonts*/
+@import url('https://fonts.googleapis.com/css2?family=Young+Serif&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&family=Young+Serif&display=swap');
+/*css reset*/
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+/*variations*/
+:root{
+    --titulo-p: hsl(14, 45%, 36%);
+    --intrucao-p: hsl(332, 51%, 33%);
+    --background-c: rgb(250, 222, 227)
+}
+
+body{
+    background-color: var(--background-c);
+    font-size: 16px;
+}
+
+.container{
+    width: 650px;
+    margin: 100px auto 50px auto;
+    padding: 50px;
+    background-color: white;
+    border-radius: 39px;
+    display: flex;
+    flex-direction: column;
+    row-gap: 35px;
+    justify-content: flex-start;
+}
+
+#image{
+    border-radius: 39px;
+}
+
+h1{
+    font-size: 35px;
+    margin-bottom: 25px;
+}
+
+.title{
+    font-family: "Young Serif", serif;
+    font-weight: 400;
+}
+
+h2{
+    color: var(--titulo-p);
+}
+
+h3{
+    font-family: "Outfit", sans-serif;
+    color: var(--intrucao-p);
+    font-weight: 400;
+}
+
+p, li{
+    font-family: "Outfit", sans-serif;
+    font-weight: 400;
+}
+
+.time{
+    background-color: hsla(332, 51%, 33%,0.1);
+    border-radius: 15px;
+    padding: 35px;
+    display: flex;
+    flex-direction: column;
+    row-gap: 20px;
+}
+
+.ingredients{
+    display: flex;
+    flex-direction: column;
+    row-gap: 20px;
+}
+
+.instructions{
+    display: flex;
+    flex-direction: column;
+    row-gap: 20px;
+}
+
+.list{
+    list-style-type: square;
+}
+
+.lista{
+    display: flex;
+    flex-direction: column;
+    row-gap: 10px;
+    list-style-position: inside;
+}
+
+li::marker{
+    color: var(--titulo-p);
+}
+
+.nutrition{
+    line-height: 3;
+}
+
+.info {
+    display: inline-block;
+    margin: 0 256px 0 25px
+}
+
+.propriedade{
+    width: 30px;
+}
+
+.nutrition b{
+    color: var(--titulo-p);
+}
+
+hr{
+    height: 1px;
+    background-color: hsla(0, 0%, 50%,0.5);
+    border: none;
+}
+
+@media (max-width: 375px){
+    body{
+        background-color: white;
+    }
+    .container{
+        width: auto;
+        margin: 0 25px;
+        padding: 0 ;
+        margin-bottom: 30px;
+    }
+    
+    #image{
+        border-radius: 0;
+        margin: 0;
+    }
+
+    .nutrition .description{
+        line-height: normal;
+        margin-bottom: 15px;
+    }
+
+    .info{
+        margin: 0 60px 0 25px;
+    }
+}
+
+footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 12px;
+    margin-bottom: 50px;
+}
+
+footer a{
+    color:black;
+}
