@@ -7,7 +7,7 @@ This is a small challenge of the [Frontend Mentor](https://www.frontendmentor.io
 
 
 ### Links
-- Live Site URL: [Recipe page in the Vercel]([https://your-live-site-url.com](https://responsive-recipe-page-gilt.vercel.app/))
+[Recipe page in the Vercel](https://responsive-recipe-page-gilt.vercel.app/)
 
 ## Acknowledgments
 
