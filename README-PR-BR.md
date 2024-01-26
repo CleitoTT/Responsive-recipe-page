@@ -1,3 +1,5 @@
+# Projeto Site de receita responsivo
+
 ### Visão Geral
 Este é um pequeno desafio do Frontend Mentor que nos pediu para construir uma página da web exibindo um tutorial para uma receita de omelete, a fim de testar nossas habilidades em HTML e CSS na criação de um site bonito e responsivo.
 ### Tecnologias Utilizadas
