@@ -4,7 +4,7 @@ This is my first project in my career, and I really enjoyed the experience of wo
 ### Overview
 This is a small challenge of the [Frontend Mentor](https://www.frontendmentor.io/home) that asked us to build a webpage displaying a tutorial for an omelette recipe to test our HTML and CSS skills in creating a beautiful and responsive website.
 ### Project Preview:
-[](desktop-design.jpg)
+[]([desktop-design.jpg](https://github.com/allan-hanauer/recipe-page-main/raw/main/design/desktop-preview.jpg))
 
 ### Links
 
