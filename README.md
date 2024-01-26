@@ -1,5 +1,4 @@
 # Responsive recipe page
-This is my first project in my career, and I really enjoyed the experience of working on this project.
 
 ### Overview
 This is a small challenge of the [Frontend Mentor](https://www.frontendmentor.io/home) that asked us to build a webpage displaying a tutorial for an omelette recipe to test our HTML and CSS skills in creating a beautiful and responsive website.
@@ -8,9 +7,7 @@ This is a small challenge of the [Frontend Mentor](https://www.frontendmentor.io
 
 
 ### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Recipe page in the Vercel]([https://your-live-site-url.com](https://responsive-recipe-page-gilt.vercel.app/))
 
 ## Acknowledgments
 
