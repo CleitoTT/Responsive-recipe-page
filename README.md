@@ -13,7 +13,7 @@ This is a small challenge of the [Frontend Mentor](https://www.frontendmentor.io
 
 
 ### Links
-[Recipe page in the Vercel](https://responsive-recipe-page-gilt.vercel.app/)
+[Recipe page site]([https://responsive-recipe-page-gilt.vercel.app/](https://cleitott.github.io/Responsive-recipe-page/))
 
 ## Acknowledgments
 
